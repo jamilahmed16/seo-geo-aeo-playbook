@@ -37,7 +37,7 @@ Competing hypotheses to exclude: a custom rewrite rule in a snippets plugin, a p
 
 **B. Block crawling via robots.txt (interim, reversible).**
 
-```
+```text
 Disallow: /*/paged-*
 Disallow: /*wc-ajax=
 ```

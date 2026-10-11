@@ -33,4 +33,4 @@ I am Jamil Ahmed, SEO and AI Search Consultant, founder of [Reinforce Lab](https
 
 ## License
 
-MIT. Use it, adapt it, credit it.
+MIT. Use it, adapt it, credit it. See [CONTRIBUTING.md](CONTRIBUTING.md) to suggest changes and [SECURITY.md](SECURITY.md) to report sensitive content.
